@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8e028c-59ae-4dc4-a001-35e54723ee2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588510862803</updated>
-      <workItem from="1588510865794" duration="4947000" />
+      <workItem from="1588510865794" duration="6519000" />
     </task>
     <task id="LOCAL-00001" summary="urls">
       <created>1588514349882</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588515016109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="shablonHtml">
+      <created>1588517746321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588517746321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="urls" />
     <MESSAGE value="shablon" />
-    <option name="LAST_COMMIT_MESSAGE" value="shablon" />
+    <MESSAGE value="shablonHtml" />
+    <option name="LAST_COMMIT_MESSAGE" value="shablonHtml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="118" key="CommitChangelistDialog2" timestamp="1588517745580">
